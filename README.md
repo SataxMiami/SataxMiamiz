@@ -1,3 +1,4 @@
 # SataxMiamiz
-EncryptDecrypt lol :)
-Jrunka and Satax project
+EncryptDecrypt
+Authors:
+Jrunka & Satax
