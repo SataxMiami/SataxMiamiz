@@ -1,4 +1,4 @@
 # SataxMiamiz
 EncryptDecrypt
 Authors:
-Jrunka & Satax
+Zhrunka & Satax
